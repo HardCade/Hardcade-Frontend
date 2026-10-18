@@ -1,6 +1,8 @@
 # Hardcade-Frontend
 Frontend Multi émulateur Arcade &amp; Console
 
+![VMG – V Modelines Generator](https://hardcade-system.com/img/img-accueil.png)
+
 **A customizable frontend for arcade and retro gaming systems.**
 
 Hardcade Frontend lets you organize and launch your games and emulators through a customizable interface, designed for arcade cabinets and retro gaming setups.
